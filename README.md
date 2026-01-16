@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aokigahara&width=800&height=200" alt="Aokigahara"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aokigahara&width=850&height=200" alt="Aokigahara"/>
 </p>
 
 <p align="center">
