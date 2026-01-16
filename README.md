@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,cpp" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react" alt="Skills"/>
 </p>
