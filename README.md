@@ -7,6 +7,5 @@
 </p>
 
 <p align="center">
-  <!-- Анимированная иконка языков -->
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,cpp" alt="Skills" />
 </p>
