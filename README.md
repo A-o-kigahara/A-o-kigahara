@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aokigahara&desc=Furry%20Digital%20Artist&descSize=24&theme=neon&animation=twinkle&font=Orbitron&width=800&height=200" alt="Aokigahara"/>
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" alt="Aokigahara GIF Banner"/>
 </p>
 
 <p align="center">
