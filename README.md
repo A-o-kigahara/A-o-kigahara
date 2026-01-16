@@ -5,3 +5,8 @@
 <p align="center">
   <img src="https://github.com/A-o-kigahara/A-o-kigahara/blob/output/github-snake-dark.svg" alt="snake"/>
 </p>
+
+<p align="center">
+  <!-- Анимированная иконка языков -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,cpp" alt="Skills" />
+</p>
