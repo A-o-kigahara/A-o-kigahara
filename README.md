@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqzRrOqSfxOdzx2/giphy.gif" alt="Aokigahara Neon Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aokigahara&width=800&height=200" alt="Aokigahara"/>
 </p>
 
 <p align="center">
