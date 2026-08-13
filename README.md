@@ -15,3 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=BB00FF&background=0D111700&center=true&vCenter=true&width=600&lines=Aokigahara;A-o-kigahara" alt="Typing SVG"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&text=Aokigahara&fontSize=70&fontColor=BB00FF&animation=fadeIn" alt="Aokigahara"/>
+</p>
