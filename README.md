@@ -10,3 +10,4 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react" alt="Skills"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=BB00FF&background=0D111700&center=true&vCenter=true&width=600&lines=Aokigahara;A-o-kigahara)](https://git.io/typing-svg)
