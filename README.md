@@ -10,4 +10,4 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react" alt="Skills"/>
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=A-o-kigahara&theme=darkhub&no-frame=true&margin-w=10)
+![Streak](https://streak-stats.demolab.com/?user=A-o-kigahara&theme=dark&hide_border=true&background=0d1117)
